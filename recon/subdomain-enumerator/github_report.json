@@ -1,0 +1,650 @@
+[
+    {
+        "subdomain": "docs.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.154",
+            "185.199.109.154",
+            "185.199.111.154",
+            "185.199.110.154"
+        ]
+    },
+    {
+        "subdomain": "bug-bash.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153",
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "status.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.114.17"
+        ]
+    },
+    {
+        "subdomain": "copilot-reports.github.com",
+        "status": "Active",
+        "ips": [
+            "13.107.246.68",
+            "13.107.213.68"
+        ]
+    },
+    {
+        "subdomain": "dns.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "api-dev.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cdn-185-199-111-154.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.111.154"
+        ]
+    },
+    {
+        "subdomain": "copilot-billing-preview.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153",
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "de.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.112.18"
+        ]
+    },
+    {
+        "subdomain": "grafana.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "f.cloud.github.com",
+        "status": "Active",
+        "ips": [
+            "151.101.66.217",
+            "151.101.2.217",
+            "151.101.130.217",
+            "151.101.194.217"
+        ]
+    },
+    {
+        "subdomain": "accessibility-playbook.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153",
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "boxen.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-110-133.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.133"
+        ]
+    },
+    {
+        "subdomain": "developer.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "app.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "dev.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cxr.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "cli.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "alive-staging.github.com",
+        "status": "Active",
+        "ips": [
+            "143.55.70.2"
+        ]
+    },
+    {
+        "subdomain": "staging.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "api.github.com",
+        "status": "Active",
+        "ips": [
+            "20.207.73.85"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-111-133.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.111.133"
+        ]
+    },
+    {
+        "subdomain": "blog.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "data-science.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "www.github.com",
+        "status": "Active",
+        "ips": [
+            "20.207.73.82"
+        ]
+    },
+    {
+        "subdomain": "demo.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "collector.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.114.22"
+        ]
+    },
+    {
+        "subdomain": "desktop.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153",
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "webmail.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "docker.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cpanel.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "db.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "community.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.114.18"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-108-153.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.153"
+        ]
+    },
+    {
+        "subdomain": "billing.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "portal.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cdn-185-199-108-133.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.133"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-108-154.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.154"
+        ]
+    },
+    {
+        "subdomain": "mail.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cdn-185-199-109-154.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.154"
+        ]
+    },
+    {
+        "subdomain": "ns1.github.com",
+        "status": "Active",
+        "ips": [
+            "192.0.2.1"
+        ]
+    },
+    {
+        "subdomain": "copilot.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.112.18"
+        ]
+    },
+    {
+        "subdomain": "test.github.com",
+        "status": "Active",
+        "ips": [
+            "192.0.2.1"
+        ]
+    },
+    {
+        "subdomain": "secure.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "prod.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "accessibility.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "action.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153",
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-109-133.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.133"
+        ]
+    },
+    {
+        "subdomain": "admin.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.114.23"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-109-153.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153"
+        ]
+    },
+    {
+        "subdomain": "ns2.github.com",
+        "status": "Active",
+        "ips": [
+            "192.0.2.2"
+        ]
+    },
+    {
+        "subdomain": "m.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "alive.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.112.26"
+        ]
+    },
+    {
+        "subdomain": "asset-generator.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "s3.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "shop.github.com",
+        "status": "Active",
+        "ips": [
+            "20.207.73.82"
+        ]
+    },
+    {
+        "subdomain": "archiveprogram.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-111-153.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "bounty.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "accelerator.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "git.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cdn.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "codeql.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "codeload.github.com",
+        "status": "Active",
+        "ips": [
+            "20.207.73.88"
+        ]
+    },
+    {
+        "subdomain": "collector-cdn.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.133",
+            "185.199.111.133",
+            "185.199.109.133",
+            "185.199.110.133"
+        ]
+    },
+    {
+        "subdomain": "campus.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "beta.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "developers.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153",
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "github.com",
+        "status": "Active",
+        "ips": [
+            "20.207.73.82"
+        ]
+    },
+    {
+        "subdomain": "vpn.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "intranet.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "monitoring.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "kibana.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "brand.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.108.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "blog-freeze.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "cdn-185-199-110-153.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.110.153"
+        ]
+    },
+    {
+        "subdomain": "gitlab.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "support.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.133",
+            "185.199.108.133",
+            "185.199.111.133",
+            "185.199.110.133"
+        ]
+    },
+    {
+        "subdomain": "classroom.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.113.22"
+        ]
+    },
+    {
+        "subdomain": "dashboard.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "jenkins.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "cs.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.114.18"
+        ]
+    },
+    {
+        "subdomain": "atom-installer.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.133",
+            "185.199.111.133",
+            "185.199.109.133",
+            "185.199.110.133"
+        ]
+    },
+    {
+        "subdomain": "assets.github.com",
+        "status": "Inactive",
+        "ips": []
+    },
+    {
+        "subdomain": "customer-stories-feed.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.109.153",
+            "185.199.108.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "awesome-copilot.github.com",
+        "status": "Active",
+        "ips": [
+            "185.199.108.153",
+            "185.199.109.153",
+            "185.199.110.153",
+            "185.199.111.153"
+        ]
+    },
+    {
+        "subdomain": "central.github.com",
+        "status": "Active",
+        "ips": [
+            "140.82.113.22"
+        ]
+    },
+    {
+        "subdomain": "stage.github.com",
+        "status": "Inactive",
+        "ips": []
+    }
+]

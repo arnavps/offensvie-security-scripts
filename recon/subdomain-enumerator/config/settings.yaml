@@ -1,0 +1,21 @@
+# Subdomain Collector Configuration Settings
+
+# DNS Validation Settings
+dns:
+  resolvers:
+    - "1.1.1.1"       # Cloudflare
+    - "8.8.8.8"       # Google
+    - "9.9.9.9"       # Quad9
+  concurrency_limit: 100
+  timeout: 4.0
+
+# HTTP Request Settings for Passive Collectors
+http:
+  timeout: 10.0
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"
+  retries: 3
+
+# Brute Force Settings
+brute_force:
+  default_wordlist: "data/subdomains_common.txt"
+  concurrency_limit: 150
