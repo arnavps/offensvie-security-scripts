@@ -1,0 +1,18 @@
+# Open Redirect Checker Configuration Rules
+http:
+  concurrency_limit: 50
+  timeout: 10.0
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) WebRedirectDetector/1.0"
+  max_redirects: 5
+  ssl_verify: false
+
+payloads:
+  fuzz_param: "url"
+  targets:
+    - "evil.com"
+    - "https://evil.com"
+    - "http://evil.com"
+    - "//evil.com"
+    - "https:evil.com"
+    - "/\\evil.com"
+    - "https://google.com@evil.com"
