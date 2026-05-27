@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jwt-analyzer"
+version = "0.1.0"
+description = "A professional, modular offensive security utility for analyzing JWTs."
+authors = [
+    {name = "Arnav Shirwadkar"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "typer>=0.9.0",
+    "rich>=13.0.0",
+    "pyjwt>=2.8.0",
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0"
+]
+
+[tool.setuptools.packages.find]
+include = ["jwt_analyzer*"]
+
+[project.scripts]
+jwt-analyzer = "jwt_analyzer.cli:app"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

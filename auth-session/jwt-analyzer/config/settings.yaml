@@ -1,0 +1,20 @@
+# JWT Analyzer Settings
+
+# Keys in the payload that might contain sensitive PII or authorization data
+sensitive_keys:
+  - "password"
+  - "secret"
+  - "token"
+  - "ssn"
+  - "is_admin"
+  - "role"
+  - "uid"
+  - "email"
+  - "permissions"
+  - "privileges"
+
+# Cryptographic algorithms considered weak or insecure
+weak_algorithms:
+  - "none"
+  - "None"
+  - "NONE"
