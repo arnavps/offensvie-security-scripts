@@ -1,0 +1,14 @@
+# Task: Email Harvester Build
+
+- [x] `harvester/core/models.py` (Data classes and Pydantic validation)
+- [x] `harvester/core/engine.py` (Orchestrator, Async task management)
+- [x] `harvester/sources/base.py` (Base classes for plugin sources)
+- [x] `harvester/sources/search_engines.py` (Example DDG/Bing sources)
+- [x] `harvester/utils/http.py` (Resilient async HTTP client)
+- [x] `harvester/utils/extractors.py` (Regex for email parsing)
+- [x] `harvester/utils/logger.py` (Structured logging)
+- [x] `harvester/utils/exporters.py` (JSON/CSV export)
+- [x] `harvester/cli.py` (Typer command-line interface)
+- [x] `run.py` (Main entry point)
+- [x] `README.md` (Project documentation and disclaimer)
+- [/] `requirements.txt` (Dependencies)
